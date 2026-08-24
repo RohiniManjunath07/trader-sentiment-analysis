@@ -162,7 +162,3 @@ Adapting trading strategies based on sentiment can help improve profitability an
 Rohini M  
 
 ---
-
-## 📎 Submission
-
-This project is submitted as part of the **Data Science Intern Assignment – Primetrade.ai**.
